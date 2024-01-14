@@ -1,0 +1,23 @@
+.hex-colors{
+    animation: colorchange 10s;
+}
+@keyframes colorchange{
+    0%{
+        color:orange
+    }
+    20%{
+        color:red
+    }
+    40%{
+        color:yellow
+    }
+    60%{
+        color:blue
+    }
+    80%{
+        color:indigo
+    }
+    100%{
+        color:green
+    }
+}

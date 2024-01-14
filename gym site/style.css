@@ -1,0 +1,28 @@
+body {
+
+    background: url(girl.jpg) no-repeat;
+    height: 2000px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white
+    ;
+}
+.left{
+     display: inline-block;
+     padding: 20px;
+     border: 1px  solid white;
+     position: absolute;
+}
+.mid{
+     display: block;
+     margin: 10px auto;
+     width: 50%;
+}
+.right{
+    display: inline-block;
+    position: absolute;
+    right: 20px;
+    top: 5px;
+    border: 2px  white;
+}
